@@ -15,7 +15,10 @@ header img {
     width: 40%;
     border: 13px solid pink;
 }
-#preguissa {
+#texto_a_ser_modificado {
     color:rgba(255, 0, 242, 0.637);
+}
+.Mensagem{
     font-family: Georgia;
+    color: royalblue;
 }
